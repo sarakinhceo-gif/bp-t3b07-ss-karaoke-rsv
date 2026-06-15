@@ -2,39 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  
   <url>
-    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/normal-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/about.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/normal-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/blog.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/normal-3.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/checklist-002-19j45n4.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/checklist-002-1i6z4u9.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/compare-001-1deg562.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/compare-001-hwp385.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/juice-1.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/juice-2.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/normal-1.html</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/normal-2.html</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/posts/normal-3.html</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b07-ss-karaoke-rsv/feed.xml</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
